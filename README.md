@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Next.js, Node.js, and Keycloak projects**.
 - 🌱 I’m learning **advanced cloud-native solutions with Terraform**.
 - 💬 Ask me about **Linux Administration, JavaScript, and Cloud Computing (Azure & AWS)**.
-- 📫 How to reach me: **[marc.jr@example.com](mailto:marc.jr@example.com)**.
+- 📫 How to reach me: **[atebemarc42@gmail.com](mailto:atebemarc42@gmail.com)**.
 - ⚡ Fun fact: I love automating workflows and exploring open-source tools.
 
 ---
@@ -62,10 +62,10 @@ Check out my projects and contributions on **[GitHub](https://github.com/Marc-Jr
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/marc-jr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:marc.jr@example.com" target="_blank">
+  <a href="mailto:atebemarc42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/1283064435677855857" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
